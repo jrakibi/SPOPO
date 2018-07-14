@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\art.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\mipmap-mdpi\\art.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\artmin.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\mipmap-mdpi\\artmin.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\artmin.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\mipmap-mdpi\\artmin.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\art.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\mipmap-mdpi\\art.png"
+    }
+]

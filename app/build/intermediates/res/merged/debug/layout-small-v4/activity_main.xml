@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.pc.projectdrag.MainActivity"
+    android:background="@drawable/menu1">
+
+
+    <Button
+        android:id="@+id/play"
+        android:layout_width="66dp"
+        android:layout_height="18dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginRight="46dp"
+        android:layout_marginTop="8dp"
+        android:background="@null"
+        android:onClick="play"
+        android:text="Play"
+        android:textColor="#000000"
+        android:textSize="9sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/score"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        tools:text="Play" />
+
+    <Button
+        android:id="@+id/settings"
+        android:layout_width="66dp"
+        android:layout_height="18dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginRight="16dp"
+        android:background="@null"
+        android:onClick="settings"
+        android:text="Settings"
+        android:textColor="#000000"
+        android:textSize="9sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/close"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <Button
+        android:id="@+id/score"
+        android:layout_width="66dp"
+        android:layout_height="18dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginRight="28dp"
+        android:background="@null"
+        android:onClick="score"
+        android:text="Score"
+        android:textColor="#000000"
+        android:textSize="9sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/settings"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <Button
+        android:id="@+id/close"
+        android:layout_width="66dp"
+        android:layout_height="18dp"
+        android:layout_marginRight="0dp"
+        android:background="@null"
+        android:text="Close"
+        android:textColor="#000000"
+        android:onClick="close"
+        android:textSize="9sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteY="144dp" />
+
+    <ImageView
+        android:id="@+id/closeIcon"
+        android:layout_width="20dp"
+        android:layout_height="18dp"
+        app:srcCompat="@drawable/close"
+        app:layout_constraintRight_toLeftOf="@+id/close"
+        android:layout_marginRight="-8dp"
+        app:layout_constraintTop_toTopOf="@+id/close"
+        android:layout_marginTop="0dp" />
+
+    <ImageView
+        android:id="@+id/playIcon"
+        android:layout_width="20dp"
+        android:layout_height="18dp"
+        app:srcCompat="@drawable/play"
+        app:layout_constraintRight_toLeftOf="@+id/play"
+        android:layout_marginRight="2dp"
+        app:layout_constraintTop_toTopOf="@+id/play"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/scoreIcon"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/settingsIcon"
+        android:layout_width="20dp"
+        android:layout_height="18dp"
+        app:srcCompat="@drawable/settings"
+        app:layout_constraintRight_toLeftOf="@+id/settings"
+        android:layout_marginRight="0dp"
+        app:layout_constraintTop_toTopOf="@+id/settings"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/closeIcon"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/scoreIcon"
+        android:layout_width="20dp"
+        android:layout_height="18dp"
+        app:srcCompat="@drawable/score"
+        app:layout_constraintRight_toLeftOf="@+id/score"
+        android:layout_marginRight="0dp"
+        app:layout_constraintTop_toTopOf="@+id/score"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/settingsIcon"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+</android.support.constraint.ConstraintLayout>

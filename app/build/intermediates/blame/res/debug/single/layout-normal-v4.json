@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_level2.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\layout-normal\\activity_level2.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\slide_layout.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\layout-normal\\slide_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\slide_layout.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\layout-normal\\slide_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_level1.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\layout-normal\\activity_level1.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_main.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\layout-normal\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_score.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\layout-normal\\activity_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_levels.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\layout-normal\\activity_levels.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_settings.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\layout-normal\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\popup.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\layout-normal\\popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_splach.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\layout-normal\\activity_splach.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_level1.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\layout-normal\\activity_level1.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_levels.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\layout-normal\\activity_levels.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_level12.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\layout-normal\\activity_level12.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_settings.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\layout-normal\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\popup.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\layout-normal\\popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_score.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\layout-normal\\activity_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_splach.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\layout-normal\\activity_splach.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_main.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\layout-normal\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_level12.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\layout-normal\\activity_level12.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\activity_level2.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\layout-normal\\activity_level2.xml"
+    }
+]

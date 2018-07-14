@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ProjectDrag</string>
+
+    <string name="id_application">id_1</string>
+    <string name="id_exercice">id_1</string>
+    <string name="id_niveau">id_1</string>
+    <string name="id_exo_1">id_1</string>
+    <string name="id_niveau_1.1">id_1</string>
+    <string name="id_exo_2">id_1</string>
+    <string name="id_niveau_2.1">id_1</string>
+    <string name="id_exo_3">id_1</string>
+    <string name="id_niveau_3.1">id_1</string>
+    <string name="id_exo_4">id_1</string>
+    <string name="id_niveau_4.1">id_1</string>
+
+    <string name="server1">http://www.mocky.io/v2/5af200ae3000002b00ba8281/</string>
+    <string name="server2">http://ptsv2.com/t/k6upo-1525830108/</string>
+    <string name="server3">http://www.mocky.io/v2/5af5fc87310000740000263e/</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="serverPaths">http://access-apps.ma/androidApi/</string>
+    <string name="PathServer">http://access-apps.ma/androidApi/</string>
+    <string name="app_id" >2018_2_3_3</string>
+</resources>

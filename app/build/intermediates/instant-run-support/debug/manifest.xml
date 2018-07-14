@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pc.projectdrag"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <uses-sdk
+            android:minSdkVersion="14"
+            android:targetSdkVersion="26" />
+
+        <activity
+            android:name="com.example.pc.projectdrag.MainActivity"
+            android:label="@string/title_activity_main"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.example.pc.projectdrag.level1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.pc.projectdrag.levels"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.pc.projectdrag.level2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.pc.projectdrag.Splach"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.pc.projectdrag.settings"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name="com.example.pc.projectdrag.BackgroundSoundService"
+            android:enabled="true" />
+        <service
+            android:name="com.example.pc.projectdrag.BackgroundGameService"
+            android:exported="false" />
+
+        <activity android:name="com.example.pc.projectdrag.Authentification" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.pc.projectdrag.StudentList" />
+        <activity android:name="com.example.pc.projectdrag.OrganisationsActivity" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.1" />
+
+        <activity android:name="com.example.pc.projectdrag.score" />
+        <activity android:name="com.example.pc.projectdrag.level11" />
+        <activity android:name="com.example.pc.projectdrag.level22" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.example.pc.projectdrag.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.pc.projectdrag.settings"
+    android:background="@drawable/main_background">
+
+    <TextView
+        android:id="@+id/lang"
+        android:layout_width="350dp"
+        android:layout_height="70dp"
+        android:layout_marginBottom="23dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Changer la langue"
+        android:textColor="@color/colorWhite"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/radioLang"
+        app:layout_constraintHorizontal_bias="0.205"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/btnValidate"
+        android:layout_width="350dp"
+        android:layout_height="70dp"
+        android:layout_marginBottom="95dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Valider"
+        android:textSize="36sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.965"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/soundState"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/sound"
+        android:layout_width="115dp"
+        android:layout_height="61dp"
+        android:layout_marginBottom="187dp"
+        android:layout_marginLeft="56dp"
+        android:layout_marginTop="8dp"
+        android:text="Son"
+        android:textColor="@color/colorWhite"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintVertical_bias="0.006"
+        app:layout_constraintTop_toTopOf="@+id/soundState" />
+
+    <Switch
+        android:id="@+id/soundState"
+        android:layout_width="350dp"
+        android:layout_height="70dp"
+        android:layout_marginBottom="335dp"
+        android:layout_marginRight="76dp"
+        android:checked="false"
+        android:text=""
+        android:textOff="Off"
+        android:textOn="On"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:checked="false" />
+
+    <RadioGroup
+        android:id="@+id/radioLang"
+        android:layout_width="350dp"
+        android:layout_height="250dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="224dp"
+        app:layout_constraintBottom_toTopOf="@+id/soundState"
+        app:layout_constraintHorizontal_bias="0.696"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.375">
+
+        <RadioButton
+            android:id="@+id/radioFrancais"
+            android:layout_width="350dp"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:text="Francais"
+            android:textColor="#ffffff"
+            android:textSize="36sp"
+            tools:layout_editor_absoluteX="125dp"
+            tools:layout_editor_absoluteY="83dp" />
+
+        <RadioButton
+            android:id="@+id/radioArab"
+            android:layout_width="350dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="-20dp"
+            android:layout_weight="1"
+            android:text="العربية"
+            android:textColor="#ffffff"
+            android:textSize="36sp"
+            app:layout_constraintBottom_toTopOf="@+id/radioAnglais"
+            tools:layout_editor_absoluteX="205dp" />
+
+        <RadioButton
+            android:id="@+id/radioAnglais"
+            android:layout_width="350dp"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:text="Anglais"
+            android:textColor="#ffffff"
+            android:textSize="36sp"
+            tools:layout_editor_absoluteX="205dp"
+            tools:layout_editor_absoluteY="394dp" />
+
+    </RadioGroup>
+
+
+</android.support.constraint.ConstraintLayout>

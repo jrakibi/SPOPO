@@ -1,0 +1,858 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\1e03983e5da7c335e2201b2dee5c22ae61a6b5f6\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconvi.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\iconvi.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconb.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\iconb.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\d4b383056face6c50d8d4029dedf6fc31772f338\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinb.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\spinb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_pressed.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\463261f41d7f30e708db44c215c2976ac73e8b58\\output\\res\\drawable\\rect_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logosplach.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\logosplach.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\1e03983e5da7c335e2201b2dee5c22ae61a6b5f6\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\congrat.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\congrat.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reset.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\button.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c33.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\c33.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\d4b383056face6c50d8d4029dedf6fc31772f338\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popupbackground.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\popupbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\d4b383056face6c50d8d4029dedf6fc31772f338\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\1e03983e5da7c335e2201b2dee5c22ae61a6b5f6\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\d4b383056face6c50d8d4029dedf6fc31772f338\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nextslider.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\nextslider.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refreshpopup.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\refreshpopup.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popupbackground.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\popupbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\d4b383056face6c50d8d4029dedf6fc31772f338\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\d4b383056face6c50d8d4029dedf6fc31772f338\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoo.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\logoo.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cpb_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\ebf0650795f3bd803ca280aca269ef44fc429310\\output\\res\\drawable\\cpb_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c3.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\c3.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinvi.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\spinvi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level1icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\level1icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleep_icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\sleep_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinvi.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\spinvi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popbackground.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\popbackground.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c33.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\c33.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinbr.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\spinbr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\1e03983e5da7c335e2201b2dee5c22ae61a6b5f6\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c22.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\c22.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\score.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\score.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\1e03983e5da7c335e2201b2dee5c22ae61a6b5f6\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eat_icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\eat_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinr.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\spinr.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinj.JPG",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\spinj.JPG"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_progress.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\463261f41d7f30e708db44c215c2976ac73e8b58\\output\\res\\drawable\\rect_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconr.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\iconr.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinr.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\spinr.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\1e03983e5da7c335e2201b2dee5c22ae61a6b5f6\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soundoff.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\soundoff.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoo.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\logoo.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_error.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\463261f41d7f30e708db44c215c2976ac73e8b58\\output\\res\\drawable\\rect_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previousslider.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\previousslider.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c1.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\c1.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c2.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\c2.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinb.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\spinb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c2.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\c2.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\congrat.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\congrat.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_progress.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\463261f41d7f30e708db44c215c2976ac73e8b58\\output\\res\\drawable\\rect_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c1.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\c1.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level1background.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\level1background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\levels.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\levels.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconbr.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\iconbr.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level3icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\level3icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu1.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\menu1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\score.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\score.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\d4b383056face6c50d8d4029dedf6fc31772f338\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soundoff.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\soundoff.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nextpopup.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\nextpopup.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reset.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level1background.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\level1background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logosplach.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\logosplach.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinv.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\spinv.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\code_icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\code_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinbr.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\spinbr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconv.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\iconv.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\1e03983e5da7c335e2201b2dee5c22ae61a6b5f6\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eat_icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\eat_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diamond.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\diamond.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu1.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\menu1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soundon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\soundon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level3icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\level3icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinj.JPG",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\spinj.JPG"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\code_icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\code_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c11.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\c11.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconb.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\iconb.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soundon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\soundon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nextpopup.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\nextpopup.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_pressed.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\463261f41d7f30e708db44c215c2976ac73e8b58\\output\\res\\drawable\\rect_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level2icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\level2icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\button.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\1e03983e5da7c335e2201b2dee5c22ae61a6b5f6\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_background.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\main_background.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconr.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\iconr.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c3.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\c3.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_error.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\463261f41d7f30e708db44c215c2976ac73e8b58\\output\\res\\drawable\\rect_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refreshpopup.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\refreshpopup.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_normal.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\463261f41d7f30e708db44c215c2976ac73e8b58\\output\\res\\drawable\\rect_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_background.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\main_background.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconvi.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\iconvi.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c11.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\c11.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo3.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level1icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\level1icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\1e03983e5da7c335e2201b2dee5c22ae61a6b5f6\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleep_icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\sleep_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_complete.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\463261f41d7f30e708db44c215c2976ac73e8b58\\output\\res\\drawable\\rect_complete.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_complete.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\463261f41d7f30e708db44c215c2976ac73e8b58\\output\\res\\drawable\\rect_complete.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cpb_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\ebf0650795f3bd803ca280aca269ef44fc429310\\output\\res\\drawable\\cpb_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo3.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\d4b383056face6c50d8d4029dedf6fc31772f338\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconv.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\iconv.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popbackground.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\popbackground.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinv.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\spinv.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconj.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\iconj.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_normal.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\463261f41d7f30e708db44c215c2976ac73e8b58\\output\\res\\drawable\\rect_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diamond.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\diamond.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nextslider.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\nextslider.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconj.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\iconj.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previousslider.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\previousslider.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\6354f847f5b61d8e80ae60f8e7a1963e4915818f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c22.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\c22.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iconbr.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\src\\main\\res\\drawable\\iconbr.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level2icon.png",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\level2icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\levels.jpg",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\Project_AuthFinal\\app\\src\\main\\res\\drawable\\levels.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\Project_Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\1e03983e5da7c335e2201b2dee5c22ae61a6b5f6\\output\\res\\drawable\\design_fab_background.xml"
+    }
+]

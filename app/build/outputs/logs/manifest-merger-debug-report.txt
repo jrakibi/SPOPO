@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:3:1-37
+		INJECTED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:5:1-63
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:5:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:6:1-75
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:6:18-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:7:1-72
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:7:18-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:8:1-75
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:8:18-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:9:1-77
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:9:18-74
+application
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:11:1-64:15
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\pc\.android\build-cache\34b550668ab92886333a1670e2027795f9ac626c\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\pc\.android\build-cache\2eed773eee4b0158a2e9413f981500f19c4f2b65\output\AndroidManifest.xml:22:5-26:19
+MERGED from [net.steamcrafted:load-toast:1.0.12] C:\Users\pc\.android\build-cache\c2589431de6304fecdf365e7f7aee82968b17304\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\pc\.android\build-cache\b3fc081743930fdcbecb336d6704d30cfbafe4b8\output\AndroidManifest.xml:9:5-20
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] C:\Users\pc\.android\build-cache\ebf0650795f3bd803ca280aca269ef44fc429310\output\AndroidManifest.xml:12:5-20
+MERGED from [com.github.medyo:fancybuttons:1.8.4] C:\Users\pc\.android\build-cache\952dc7fbce040f5d73df62d8446bfe1ff596a7ca\output\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:14:5-37
+	android:supportsRtl
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:16:5-31
+	android:hardwareAccelerated
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:18:5-40
+	android:roundIcon
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:15:5-50
+	android:allowBackup
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:12:5-31
+	android:icon
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:13:5-34
+	android:largeHeap
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:19:5-29
+	android:theme
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:17:5-36
+uses-sdk
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\pc\.android\build-cache\2eed773eee4b0158a2e9413f981500f19c4f2b65\output\AndroidManifest.xml:20:5-44
+MERGED from [net.steamcrafted:load-toast:1.0.12] C:\Users\pc\.android\build-cache\c2589431de6304fecdf365e7f7aee82968b17304\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dmytrodanylyk.android-process-button:library:1.0.4] C:\Users\pc\.android\build-cache\463261f41d7f30e708db44c215c2976ac73e8b58\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.basgeekball:awesome-validation:4.1] C:\Users\pc\.android\build-cache\12a7dc922b1d71eecaa9d66d8439dba29c564d34\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.2] C:\Users\pc\.android\build-cache\1e03983e5da7c335e2201b2dee5c22ae61a6b5f6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\pc\.android\build-cache\84b36f80c2187141168522cd81fea43ff9c68d57\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\pc\.android\build-cache\8e3e931dbb04759bf1566d7b9d88c9a9713d0e58\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\pc\.android\build-cache\6354f847f5b61d8e80ae60f8e7a1963e4915818f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\pc\.android\build-cache\39a125ad85a5b2334287307015fb0938417c573e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\pc\.android\build-cache\6e837bb5411f26b2c7c30b4418d4b8e9c1f3700e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\pc\.android\build-cache\60db31b10b55cb1a59bbc314226ba987cba0e404\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\pc\.android\build-cache\066d490af55d53e5fd5f1fd8f80f65cec8891def\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\pc\.android\build-cache\481ed1798698b4dc3b88e330761b89adc49f4a4e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\pc\.android\build-cache\6e1e70db3c716377a3ff54e47912651d472ccd67\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\pc\.android\build-cache\0f041172d5fdd9aeaec130eca1aedb23bb60cd4e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\pc\.android\build-cache\d4b383056face6c50d8d4029dedf6fc31772f338\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\pc\.android\build-cache\4fb5eb98d6512cdfebd069f8ab7f9184bd52c940\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\pc\.android\build-cache\b3fc081743930fdcbecb336d6704d30cfbafe4b8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test.espresso:espresso-core:3.0.1] C:\Users\pc\.android\build-cache\dae362090299e19d3b8aee111a606599581ce25d\output\AndroidManifest.xml:19:5-72
+MERGED from [com.android.support.test:rules:1.0.1] C:\Users\pc\.android\build-cache\631f9ed68c08a65211dd8cf94e438e8b11e7d790\output\AndroidManifest.xml:19:5-72
+MERGED from [com.android.support.test:runner:1.0.1] C:\Users\pc\.android\build-cache\309fbff01eebea182c97862ea2a806a72dab9375\output\AndroidManifest.xml:19:5-72
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.1] C:\Users\pc\.android\build-cache\5cd3769a7fcdac088ec3b8347dd53d9cee139f0d\output\AndroidManifest.xml:19:3-70
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] C:\Users\pc\.android\build-cache\ebf0650795f3bd803ca280aca269ef44fc429310\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.medyo:fancybuttons:1.8.4] C:\Users\pc\.android\build-cache\952dc7fbce040f5d73df62d8446bfe1ff596a7ca\output\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:22:9-38
+		INJECTED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml
+		ADDED from [net.steamcrafted:load-toast:1.0.12] C:\Users\pc\.android\build-cache\c2589431de6304fecdf365e7f7aee82968b17304\output\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:21:9-35
+		INJECTED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml
+activity#com.example.pc.projectdrag.MainActivity
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:24:5-28:43
+	android:screenOrientation
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:27:9-45
+	android:label
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:26:9-52
+	android:theme
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:25:9-37
+activity#com.example.pc.projectdrag.level1
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:30:5-32:48
+	android:screenOrientation
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:32:9-45
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:31:9-31
+activity#com.example.pc.projectdrag.levels
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:33:5-35:48
+	android:screenOrientation
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:35:9-45
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:34:9-31
+activity#com.example.pc.projectdrag.level2
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:36:5-38:48
+	android:screenOrientation
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:38:9-45
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:37:9-31
+activity#com.example.pc.projectdrag.Splach
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:39:5-46:16
+	android:screenOrientation
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:41:9-45
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:40:9-31
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:42:9-45:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:43:13-65
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:43:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:44:23-70
+activity#com.example.pc.projectdrag.settings
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:48:5-50:48
+	android:screenOrientation
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:50:9-45
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:49:9-33
+service#com.example.pc.projectdrag.BackgroundSoundService
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:52:5-54:34
+	android:enabled
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:54:9-31
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:53:9-47
+meta-data#android.support.VERSION
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:56:5-59:41
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\pc\.android\build-cache\34b550668ab92886333a1670e2027795f9ac626c\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\pc\.android\build-cache\2eed773eee4b0158a2e9413f981500f19c4f2b65\output\AndroidManifest.xml:23:9-25:38
+	xmlns:tools
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:56:16-62
+	android:value
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:58:9-31
+		REJECTED from [com.android.support:support-v13:26.1.0] C:\Users\pc\.android\build-cache\34b550668ab92886333a1670e2027795f9ac626c\output\AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:cardview-v7:26.1.0] C:\Users\pc\.android\build-cache\2eed773eee4b0158a2e9413f981500f19c4f2b65\output\AndroidManifest.xml:25:13-35
+	tools:replace
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:59:9-38
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:57:9-47
+activity#com.example.pc.projectdrag.score
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:61:5-39
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:61:15-36
+activity#com.example.pc.projectdrag.level11
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:62:5-50
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:62:15-38
+activity#com.example.pc.projectdrag.level22
+ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:63:5-50
+	android:name
+		ADDED from C:\Users\pc\AndroidStudioProjects\Project_Final\app\src\main\AndroidManifest.xml:63:15-38
